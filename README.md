@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20Yeji's%20github&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Yeji's%20github&fontSize=60" />
 <h2>Hi 🙌 I am yeji</h2>
 🔭 I’m currently working on 
 <a href="https://www.bold-9.com/">
